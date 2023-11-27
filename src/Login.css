@@ -1,0 +1,14 @@
+/* Login.css */
+.login-container {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    height: 100vh; /* 设置页面高度为视口高度，实现垂直居中 */
+}
+
+.login-content {
+    width: 300px; /* 可根据需要调整登录内容的宽度 */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
