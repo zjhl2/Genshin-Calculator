@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5cdda46.css",
-    "main.js": "/static/js/main.df1e9559.js",
-    "static/js/787.3dcf13d0.chunk.js": "/static/js/787.3dcf13d0.chunk.js",
-    "index.html": "/index.html",
-    "main.e5cdda46.css.map": "/static/css/main.e5cdda46.css.map",
-    "main.df1e9559.js.map": "/static/js/main.df1e9559.js.map",
-    "787.3dcf13d0.chunk.js.map": "/static/js/787.3dcf13d0.chunk.js.map"
+    "main.css": "/github.com/zjhl2/Genshin-Calculator/static/css/main.e5cdda46.css",
+    "main.js": "/github.com/zjhl2/Genshin-Calculator/static/js/main.a4fd9246.js",
+    "static/js/787.3dcf13d0.chunk.js": "/github.com/zjhl2/Genshin-Calculator/static/js/787.3dcf13d0.chunk.js",
+    "index.html": "/github.com/zjhl2/Genshin-Calculator/index.html",
+    "main.e5cdda46.css.map": "/github.com/zjhl2/Genshin-Calculator/static/css/main.e5cdda46.css.map",
+    "main.a4fd9246.js.map": "/github.com/zjhl2/Genshin-Calculator/static/js/main.a4fd9246.js.map",
+    "787.3dcf13d0.chunk.js.map": "/github.com/zjhl2/Genshin-Calculator/static/js/787.3dcf13d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5cdda46.css",
-    "static/js/main.df1e9559.js"
+    "static/js/main.a4fd9246.js"
   ]
 }
